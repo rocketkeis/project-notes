@@ -16,6 +16,7 @@ last_updated: Oct 29, 2020
     * [How to do effective Sprint Planning as a Product Owner?](https://medium.com/serious-scrum/how-to-do-effective-sprint-planning-as-a-product-owner-41c3911f18dd)
 * [More Product Management links](https://testkeis.wordpress.com/2019/08/28/them-product-management-links/)
 * To help in communication, understanding and reviews of design
-    * [Heuristic Evaluation](heuristic_evaluation.html)
+    * [Heuristic Evaluation](design-heuristic-evaluation.md)
     * [Material Design](https://material.io/design/introduction)
     * [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+    * [Product Vision](design-product-vision.md)
