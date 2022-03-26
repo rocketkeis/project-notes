@@ -1,7 +1,9 @@
 ---
 title: User Story Mapping
-folder: agile
+last updated:
 ---
+
+# User Story Mapping
 
 Derivative from the work of Tobias Holm Jensen in his Medium article [How to: user story mapping workshop](https://uxdesign.cc/how-to-user-story-mapping-workshop-448b58976ff) where he did say 'Please feel free to copy, steal and claim any content from this guide as I have created it for you.'
 

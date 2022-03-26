@@ -1,7 +1,9 @@
 ---
 title: Heuristic Evaluation
-last_updated: Feb 20, 2021
+last updated: Feb 20, 2021
 ---
+
+# Heuristic Evaluation
 
 ### Heuristic evaluation vs Usability Testing
 

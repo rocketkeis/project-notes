@@ -1,9 +1,11 @@
 ---
 title: Scrum RACI
-folder: agile
+last updated:
 ---
 
-Reference: [SCRUM and RACI](https://techblog.constantcontact.com/software-development/scrum-and-raci/)
+# Scrum RACI
+
+Reference: [Scrum and RACI](https://techblog.constantcontact.com/software-development/scrum-and-raci/)
 
 * R - Responsible - Responsible for doing the work
 * A - Accountable - Responsible for the outcome, decision maker

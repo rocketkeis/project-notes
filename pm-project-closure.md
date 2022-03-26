@@ -1,17 +1,18 @@
 ---
 title: Project Closure
-last_updated: Jun 18, 2020
-folder: project_management
+last updated: Jun 18, 2020
 ---
 
-## Outputs / objectives
+# Project Closure
+
+### Outputs / objectives
 
 * Project Closure Report - to be presented to _TBD_
 * _tie up lose ends_ Ensuring alignment that the project is indeed closed
 * _archival_ Documents and source codes are stored just in case project is revived or needs to be handed over; or are destroyed depending on confidentiality agreements or retention policies
 * _lessons learned_ Capture lessons learned or assets that can be reused
 
-## Closure report outline
+### Closure report outline
 
 * Project Overview
 * Reason for Project Closure

@@ -1,6 +1,6 @@
 ---
 title: Product Vision
-last_updated: Aug 25, 2020
+last updated: Aug 25, 2020
 ---
 
 ### The product vision...

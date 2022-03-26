@@ -1,10 +1,11 @@
 ---
 title: Backlog Refinement
-folder: agile
+last updated: Mar  26, 2022
 ---
 
-Reference for this is Chapter 16 of the book _User Story Mapping_ particularly the section on 'Story Workshop Recipe'. Ideally, this is done prior to the Sprint Planning so that the user stories to potentially be included have enough detail for the teams to size and implement.
+# Backlog Refinement
 
+Reference for this is Chapter 16 of the book _User Story Mapping_ particularly the section on "Story Workshop Recipe". Ideally, this is done prior to the Sprint Planning so that the user stories to potentially be included have enough detail for the teams to size and implement.
 
 The objective is to refine understanding and define specifically what the development team will build, and the acceptance criteria for what the team will build.
 
@@ -17,7 +18,7 @@ The objective is to refine understanding and define specifically what the develo
 * Someone who understands users and how the user interface could or should work - PO, BA, UX Designer
 * Someone familiar with the codebase you’ll be adding the features into, because they’ll best understand what's feasible to build - 1-2 Devs
 * Someone to help ask the tough questions so that we consider the "what abouts" that others are often too optimistic to consider - Tester
-* *Note that it's possible that one person wears multiple hats. That's ok as long as those 3 areas above are considered.*
+* Note that it's possible that one person wears multiple hats. That's OK as long as those 3 areas above are considered.
 
 **Dive deep and consider options.** Use the conversations to dive deep into:
 
@@ -27,7 +28,7 @@ The objective is to refine understanding and define specifically what the develo
 * Exactly how the software behaves underneath that user interface—those sticky business rules and data validation stuff
 * Roughly how we might build the software—because we need to predict how long it will take to build—and happily, we’re making things real enough at this point we can more accurately predict how long that will take
 
-*Remember that we need not consider anything absolutely required. If the discussion leads to solutions that are expensive or complex, step back and discuss the problems we’re really solving, and other alternatives we could build to solve them.*
+*If the discussion leads to solutions that are getting too expensive or complex, step back and discuss the problems we’re actually trying to solve.*
 
 **Agree on what to build.** After enough conversation to build shared understanding, move to answering the questions:
 
