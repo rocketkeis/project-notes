@@ -1,5 +1,8 @@
 # project-notes
 
+
+[Starting in a new project](pm-individual-start.md)
+
 Agile
 
 * [Scrum](agile-scrum.md)
@@ -21,7 +24,6 @@ Design
 
 Project Management
 
-* [Starting your new project](pm-individual-start.md)
 * [Project Initiation](pm-project-initiation.md)
 * [Project Closure](pm-project-closure.md)
 
