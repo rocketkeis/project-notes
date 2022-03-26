@@ -1,17 +1,15 @@
 ---
 title: Kanban
-folder: agile
-last_updated: Aug 6, 2020
+last updated: Aug 6, 2020
 ---
+
+# Kanban
 
 ### Comparison with Scrum
 
-Scrum in a nutshell - Split your organization, split your work, split time,
-optimize release plan, optimize the process through retrospectives
+Scrum in a nutshell - Split your organization, split your work, split time, optimize release plan, optimize the process through retrospectives
 
-Kanban in a nutshell - Visualize the workflow (split work), limit work in
-progress (WIP), measure the lead time (average time to complete one item),
-optimize to reduce lead time and make it predictable
+Kanban in a nutshell - Visualize the workflow (split work), limit work in progress (WIP), measure the lead time (average time to complete one item), optimize to reduce lead time and make it predictable
 
 | | Scrum | Kanban |
 |-|-|-|
@@ -31,13 +29,14 @@ optimize to reduce lead time and make it predictable
 | Charts | Burndown chart | -
 
 
-### Tools (Kanban Board Options)
+### Tools (Digital Kanban Board Options)
 
 * MS Planner - available via MS Teams
-* GitHub - by adding a Project
+* GitHub - via adding a Project
 * Jira
 * Azure DevOps
-* External - Trello, Airtable
+* Makeshift ones via Trello, Airtable, Miro
+
 
 ### References
 

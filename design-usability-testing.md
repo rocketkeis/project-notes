@@ -1,10 +1,9 @@
 ---
 title: Usability Testing
-last_updated: Jul 10, 2020
-folder: design
+last updated: Jul 10, 2020
 ---
 
-### What is Usability Testing
+# Usability Testing
 
 According to [Hotjar](https://www.hotjar.com/usability-testing/methods/), Usability testing is the practice of assessing the functionality and performance of your website or app by observing real users completing tasks on it. Usability testing lets you experience your site or app from the users’ perspective so you can identify opportunities to improve the user experience.
 
