@@ -31,6 +31,7 @@ Testing
 
 * [Agile Testing](agile-testing.md)
 * [Usability Testing](design-usability-testing.md)
+* [Responsive Breakpoints](testing-responsive-breakpoints.md)
 
 Solutioning
 
