@@ -1,7 +1,8 @@
 # project-notes
 
+New project 
 
-[Starting in a new project](pm-individual-start.md)
+* [Starting in a new project](pm-individual-start.md)
 
 Agile
 
@@ -13,6 +14,7 @@ Agile
   * [User Story Mapping](agile-user-story-mapping.md)
   * [Sample working agreements](agile-working-agreements.md)
 * [Kanban](agile-kanban.md)
+* [Rules of Thumb](agile-rules-of-thumb.md)
 
 Design
 
