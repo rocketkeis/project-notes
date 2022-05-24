@@ -1,6 +1,6 @@
 # project-notes
 
-New project 
+New project
 
 * [Starting in a new project](pm-individual-start.md)
 
@@ -32,6 +32,7 @@ Project Management
 Testing
 
 * [Agile Testing](agile-testing.md)
+* [Agile Testing Assessment](agile-testing-assessment.md)
 * [Usability Testing](design-usability-testing.md)
 * [Responsive Breakpoints](testing-responsive-breakpoints.md)
 
