@@ -1,6 +1,6 @@
 ---
 title: New Project
-last updated: Sep 17, 2020
+last updated: Dec 25, 2022
 ---
 
 # Starting in a new project
@@ -9,22 +9,13 @@ Your manager tells you that you are joining a project. Regardless of role, you'l
 
 _In case you are leading the project, also check [Project Initiation](pm-project-initiation.md)._
 
+### Things to figure out
 
-### Ask your staffing manager
+Get as much information as you can from your manager. Note that your manager might not know all the details, in which case, you'll need to determine them through the project onboarding (if there's any) or through a project point of contact.
 
-* Project background
-* Your role and allocation in the project
-* Start and end dates of your initial allocation
-* Logistics (work hours, location, shift)
-* Contact person - who you’ll need to contact for more information about the project (This could be you if you’re the one being asked to kick-off or lead the project)
-
-
-### General things to figure out
-
-* What - scope, project objectives, what are you trying to build, what will be your role
-* Why - background, purpose of project, purpose of your involvement
-* Who - stakeholders, who will be your team mates, who will you be reporting to, escalation paths
-* When - timelines, how long is your engagement in the project, what's the shift
-* Where - location, where will the team stay, remote or collocated
-* How - methodology, agile Scrum, agile Kanban, waterfall, team working agreements, team processes
-* Extras - budget (travel allowances, shift allowances, charging setup e.g., wbs code)
+* Project details - What's the project all about, what are you trying to accomplish in the project?
+* Your role and scope of your role in the project - Are you joining as a test analyst, a test lead, a test manager; will you only be responsible for a particular phase of the project?
+* Start and end dates of your allocation, and your FTE allocation - Ideally you are fully allocated
+* Tracking details - Is this a billable project? Do you have a project code to charge to? How many hours per day do you need to charge? When can you start charging to the project? Do you also need to charge hours via a separate tracking system owned by the client?
+* Point of Contact (POC) - Who will be your point of contact for the project? Has it been aligned that they'll reach out to you or should you reach out to them? The POC will be able to advise whether there's an onboarding process (or not).
+* Logistics (e.g., work shift, core hours, location, etc.) - These might be something that the contact person will be better able to answer. But you can also ask your manager if those info had already been provided as part of the resource request.
